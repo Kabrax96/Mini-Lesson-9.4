@@ -28,4 +28,4 @@ Include the installation instruction here.
 * [About the Project](#about_the_project)
 * [Tools](#tools)
 * [Installation Instructions](#installation_instructions)
-* [Contact Information](#contact)
+* [Contact Information](#contact)# Mini-Lesson-9.4
